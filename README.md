@@ -26,9 +26,9 @@ Feel free to contribute with ideas and resources to this repository by opening a
 ## Authors
 Sara Llorente-Armijo
 
-    PhD student in [Developmental Epigenomics group](https://lms.mrc.ac.uk/research-group/developmental-epigenomics/)
+PhD student in [Developmental Epigenomics group](https://lms.mrc.ac.uk/research-group/developmental-epigenomics/)
 
-    MRC London Institute of Medical Sciences (LMS)
-    
-    Imperial College London 
+MRC London Institute of Medical Sciences (LMS)
+
+Imperial College London 
     
