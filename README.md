@@ -1,6 +1,8 @@
 # Git and GitHub basics
 Repository with cheatsheets, documents and resources for using Git and GitHub.
 
+It contains the typical files to include in a repository (README.md, LICENSE, CITATION.cff, INSTALLATION.md, CONTRIBUTING.md, .gitignore). These files can be used as templates and include inside guidelines and resources to create them (except in the case of CITATION.cff, which is accompanied by an additional markdown file with the guidelines).
+
 ## Usage
 Consult this repository in GitHub or clone it to your local machine.
 
