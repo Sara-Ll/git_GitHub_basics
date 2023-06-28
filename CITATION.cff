@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: Workshop
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sara
+    family-names: Llorente-Armijo
+identifiers:
+  - type: doi
+    value: ##.####/zenodo.####
+repository-code: 'https://github.com/Sara-Ll/git_GitHub_basics.git'
+license: BSD-3-Clause
+date-released: '2023-06-28'
