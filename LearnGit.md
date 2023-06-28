@@ -15,3 +15,6 @@
 
 - PLOS article
 	- [A Quick Introduction to Version Control with Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
+
+ - [Git documentation](https://git-scm.com/doc)
+	- [Pro Git book](https://git-scm.com/book)
