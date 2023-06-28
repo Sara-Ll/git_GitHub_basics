@@ -24,8 +24,8 @@ git clone https://github.com/Sara-Ll/git_GitHub_basics.git
 Feel free to contribute with ideas and resources to this repository by opening an issue or a pull request.
 
 ## Authors
-Sara Llorente-Armijo 
-    PhD student in [Developmental Epigenomics group](https://lms.mrc.ac.uk/research-group/developmental-epigenomics/)
-    MRC London Institute of Medical Sciences (LMS) 
+Sara Llorente-Armijo\n 
+    PhD student in [Developmental Epigenomics group](https://lms.mrc.ac.uk/research-group/developmental-epigenomics/)\n
+    MRC London Institute of Medical Sciences (LMS)\n
     Imperial College London 
     
